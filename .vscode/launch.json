@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/allan/studium/bsys/hackingbuchcode/gameoflife",
+      "program": "/Users/allan/studium/bsys/hackingbuchcode/gameoflife/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
