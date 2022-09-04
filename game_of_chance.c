@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <unistd.h>
 #include "hacking.h"
-#define DATAFILE "/Users/allan/Desktop"
+#define DATAFILE "/Users/allan/Desktop/hello.data"
 struct user{ int uid; int credits; int highscore; char name[100]; int (*current_game)(); };
 int get_player_data();
 void register_new_player();
