@@ -1,7 +1,6 @@
 // tis is a comment
 //second new comment
 //new comment
-#include <stdio.h>
 #include <string.h>
 #include <fcntl.h>
 #include <sys/stat.h>
