@@ -1,3 +1,5 @@
+// tis is a comment
+//second new comment
 #include <stdio.h>
 #include <string.h>
 #include <fcntl.h>

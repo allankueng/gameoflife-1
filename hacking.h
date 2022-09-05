@@ -21,3 +21,4 @@ void* ec_malloc(unsigned int size){
     return ptr;
 }
 
+// comment
